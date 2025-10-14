@@ -1,0 +1,85 @@
+{
+  "guest_house_name": "Sunshine Guest House",
+  "rooms": [
+    {
+      "id": "room_101",
+      "room_number": "101",
+      "room_type": "Standard Single Room",
+      "description": "Comfortable single occupancy room with basic amenities",
+      "price_per_night": 800,
+      "max_occupancy": 1,
+      "amenities": ["WiFi", "TV", "AC"],
+      "images": [
+        "https://example.com/images/standard-single-1.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "room_102",
+      "room_number": "102",
+      "room_type": "Standard Single Room",
+      "description": "Comfortable single occupancy room with basic amenities",
+      "price_per_night": 800,
+      "max_occupancy": 1,
+      "amenities": ["WiFi", "TV", "AC"],
+      "images": [
+        "https://example.com/images/standard-single-2.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "room_201",
+      "room_number": "201",
+      "room_type": "Deluxe Double Room",
+      "description": "Spacious double occupancy room with premium amenities",
+      "price_per_night": 1200,
+      "max_occupancy": 2,
+      "amenities": ["WiFi", "TV", "AC", "Mini Bar"],
+      "images": [
+        "https://example.com/images/deluxe-double-1.jpg",
+        "https://example.com/images/deluxe-double-2.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "room_202",
+      "room_number": "202",
+      "room_type": "Deluxe Double Room",
+      "description": "Spacious double occupancy room with premium amenities",
+      "price_per_night": 1200,
+      "max_occupancy": 2,
+      "amenities": ["WiFi", "TV", "AC", "Mini Bar"],
+      "images": [
+        "https://example.com/images/deluxe-double-3.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "room_301",
+      "room_number": "301",
+      "room_type": "Executive Suite",
+      "description": "Luxury suite with separate living area and premium services",
+      "price_per_night": 2000,
+      "max_occupancy": 3,
+      "amenities": ["WiFi", "Smart TV", "Climate Control", "Room Service"],
+      "images": [
+        "https://example.com/images/executive-suite-1.jpg",
+        "https://example.com/images/executive-suite-2.jpg",
+        "https://example.com/images/executive-suite-3.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "room_103",
+      "room_number": "103",
+      "room_type": "Standard Single Room",
+      "description": "Comfortable single occupancy room with basic amenities",
+      "price_per_night": 800,
+      "max_occupancy": 1,
+      "amenities": ["WiFi", "TV", "AC"],
+      "images": [],
+      "status": "occupied"
+    }
+  ],
+  "last_updated": "2025-10-14T10:00:00Z"
+}
