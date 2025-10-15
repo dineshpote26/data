@@ -4,75 +4,99 @@
   "items": [
     {
       "id": "room_101",
-      "room_number": "101",
-      "room_type": "Standard Single Room",
-      "price_per_night": 800,
-      "max_occupancy": 1,
-      "amenities": ["WiFi", "TV"],
+      "name": "Standard Single Room",
+      "description": "Cozy single room with essential amenities",
+      "type": "Standard",
+      "price": 800,
       "images": [
         "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
       ],
-      "status": "available"
+      "status": "available",
+      "attributes": {
+        "room_number": "101",
+        "max_occupancy": 1,
+        "amenities": ["WiFi", "TV"]
+      }
     },
     {
       "id": "room_102",
-      "room_number": "102",
-      "room_type": "Standard Double Room",
-      "price_per_night": 1200,
-      "max_occupancy": 2,
-      "amenities": ["WiFi", "TV", "AC"],
+      "name": "Standard Double Room",
+      "description": "Comfortable double room with air conditioning",
+      "type": "Standard",
+      "price": 1200,
       "images": [
         "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
       ],
-      "status": "available"
+      "status": "available",
+      "attributes": {
+        "room_number": "102",
+        "max_occupancy": 2,
+        "amenities": ["WiFi", "TV", "AC"]
+      }
     },
     {
       "id": "room_103",
-      "room_number": "103",
-      "room_type": "Deluxe Double Room",
-      "price_per_night": 1500,
-      "max_occupancy": 2,
-      "amenities": ["WiFi", "TV", "AC", "Mini Fridge"],
+      "name": "Deluxe Double Room",
+      "description": "Spacious deluxe room with premium amenities",
+      "type": "Deluxe",
+      "price": 1500,
       "images": [
         "https://media.maldronhotels.com/dalata-assets-2024/image/upload/f_auto,c_auto,w_3840,q_auto/v1712843627/Uploads/Maldron/Deluxe_double_1236369383.jpg"
       ],
-      "status": "occupied"
+      "status": "occupied",
+      "attributes": {
+        "room_number": "103",
+        "max_occupancy": 2,
+        "amenities": ["WiFi", "TV", "AC", "Mini Fridge"]
+      }
     },
     {
       "id": "room_201",
-      "room_number": "201",
-      "room_type": "Suite",
-      "price_per_night": 2000,
-      "max_occupancy": 4,
-      "amenities": ["WiFi", "TV", "AC", "Mini Fridge", "Balcony"],
+      "name": "Suite",
+      "description": "Luxurious suite with balcony and premium facilities",
+      "type": "Suite",
+      "price": 2000,
       "images": [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8cGQdnqDAeXq5mZW6VzFNX8O6ebd2WmIQA&s"
       ],
-      "status": "available"
+      "status": "available",
+      "attributes": {
+        "room_number": "201",
+        "max_occupancy": 4,
+        "amenities": ["WiFi", "TV", "AC", "Mini Fridge", "Balcony"]
+      }
     },
     {
       "id": "room_202",
-      "room_number": "202",
-      "room_type": "Family Room",
-      "price_per_night": 2500,
-      "max_occupancy": 5,
-      "amenities": ["WiFi", "TV", "AC", "Mini Fridge", "Kitchen"],
+      "name": "Family Room",
+      "description": "Large family room with kitchen facilities",
+      "type": "Family",
+      "price": 2500,
       "images": [
         "https://media.maldronhotels.com/dalata-assets-2024/image/upload/f_auto,c_auto,w_3840,q_auto/v1712843627/Uploads/Maldron/Deluxe_double_1236369383.jpg"
       ],
-      "status": "available"
+      "status": "available",
+      "attributes": {
+        "room_number": "202",
+        "max_occupancy": 5,
+        "amenities": ["WiFi", "TV", "AC", "Mini Fridge", "Kitchen"]
+      }
     },
     {
       "id": "room_203",
-      "room_number": "203",
-      "room_type": "Deluxe Suite",
-      "price_per_night": 3000,
-      "max_occupancy": 4,
-      "amenities": ["WiFi", "TV", "AC", "Mini Fridge", "Balcony", "Bathtub"],
+      "name": "Deluxe Suite",
+      "description": "Premium suite with bathtub and balcony",
+      "type": "Deluxe Suite",
+      "price": 3000,
       "images": [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8cGQdnqDAeXq5mZW6VzFNX8O6ebd2WmIQA&s"
       ],
-      "status": "available"
+      "status": "available",
+      "attributes": {
+        "room_number": "203",
+        "max_occupancy": 4,
+        "amenities": ["WiFi", "TV", "AC", "Mini Fridge", "Balcony", "Bathtub"]
+      }
     }
   ],
   "last_updated": "2024-10-15T10:00:00Z"
