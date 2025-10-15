@@ -36,8 +36,7 @@
       "max_occupancy": 2,
       "amenities": ["WiFi", "TV", "AC", "Mini Bar"],
       "images": [
-        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg",
-        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
+        "https://media.maldronhotels.com/dalata-assets-2024/image/upload/f_auto,c_auto,w_3840,q_auto/v1712843627/Uploads/Maldron/Deluxe_double_1236369383.jpg"
       ],
       "status": "available"
     },
@@ -50,7 +49,7 @@
       "max_occupancy": 2,
       "amenities": ["WiFi", "TV", "AC", "Mini Bar"],
       "images": [
-        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
+        "https://media.maldronhotels.com/dalata-assets-2024/image/upload/f_auto,c_auto,w_3840,q_auto/v1712843627/Uploads/Maldron/Deluxe_double_1236369383.jpg"
       ],
       "status": "available"
     },
@@ -63,9 +62,7 @@
       "max_occupancy": 3,
       "amenities": ["WiFi", "Smart TV", "Climate Control", "Room Service"],
       "images": [
-        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg",
-        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg",
-        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8cGQdnqDAeXq5mZW6VzFNX8O6ebd2WmIQA&s"
       ],
       "status": "available"
     },
