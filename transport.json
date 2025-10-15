@@ -1,0 +1,209 @@
+{
+  "service_name": "Company Transport Service",
+  "service_type": "transport",
+  "items": [
+    {
+      "id": "route_a",
+      "name": "Office Campus ↔ City Center",
+      "description": "Direct route between office campus and city center with multiple stops",
+      "type": "Regular Bus",
+      "price": 50,
+      "images": [
+        "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "route_code": "A",
+        "origin": "Office Campus",
+        "destination": "City Center",
+        "duration_minutes": 30,
+        "distance_km": 15,
+        "total_seats": 40,
+        "vehicle_type": "AC Bus",
+        "vehicle_number": "MH-12-AB-1234",
+        "amenities": ["AC", "WiFi", "USB Charging"],
+        "stops": ["Office Campus", "Tech Park", "Mall Junction", "City Center"]
+      }
+    },
+    {
+      "id": "route_b",
+      "name": "Residential Area A ↔ Office",
+      "description": "Route connecting residential area A to office campus",
+      "type": "Regular Bus",
+      "price": 40,
+      "images": [
+        "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "route_code": "B",
+        "origin": "Residential Area A",
+        "destination": "Office Campus",
+        "duration_minutes": 25,
+        "distance_km": 12,
+        "total_seats": 35,
+        "vehicle_type": "AC Bus",
+        "vehicle_number": "MH-12-CD-5678",
+        "amenities": ["AC", "WiFi"],
+        "stops": ["Residential Area A", "Shopping Complex", "Metro Station", "Office Campus"]
+      }
+    },
+    {
+      "id": "route_c",
+      "name": "Airport ↔ Office Campus",
+      "description": "Express route between airport and office campus",
+      "type": "Express Bus",
+      "price": 100,
+      "images": [
+        "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "route_code": "C",
+        "origin": "Airport",
+        "destination": "Office Campus",
+        "duration_minutes": 45,
+        "distance_km": 25,
+        "total_seats": 25,
+        "vehicle_type": "Luxury AC Bus",
+        "vehicle_number": "MH-12-EF-9012",
+        "amenities": ["AC", "WiFi", "USB Charging", "Reclining Seats", "Refreshments"],
+        "stops": ["Airport", "Highway Exit", "Office Campus"]
+      }
+    },
+    {
+      "id": "route_d",
+      "name": "Residential Area B ↔ Office",
+      "description": "Route connecting residential area B to office campus via railway station",
+      "type": "Regular Bus",
+      "price": 35,
+      "images": [
+        "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "route_code": "D",
+        "origin": "Residential Area B",
+        "destination": "Office Campus",
+        "duration_minutes": 20,
+        "distance_km": 10,
+        "total_seats": 40,
+        "vehicle_type": "AC Bus",
+        "vehicle_number": "MH-12-GH-3456",
+        "amenities": ["AC", "USB Charging"],
+        "stops": ["Residential Area B", "Railway Station", "Business Park", "Office Campus"]
+      }
+    }
+  ],
+  "schedules": [
+    {
+      "item_id": "route_a",
+      "date": "2025-10-04",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "capacity": 40,
+      "booked": 28,
+      "status": "available"
+    },
+    {
+      "item_id": "route_a",
+      "date": "2025-10-04",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "capacity": 40,
+      "booked": 35,
+      "status": "available"
+    },
+    {
+      "item_id": "route_a",
+      "date": "2025-10-04",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "capacity": 40,
+      "booked": 20,
+      "status": "available"
+    },
+    {
+      "item_id": "route_a",
+      "date": "2025-10-04",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "capacity": 40,
+      "booked": 32,
+      "status": "available"
+    },
+    {
+      "item_id": "route_b",
+      "date": "2025-10-04",
+      "start_time": "07:30",
+      "end_time": "07:55",
+      "capacity": 35,
+      "booked": 15,
+      "status": "available"
+    },
+    {
+      "item_id": "route_b",
+      "date": "2025-10-04",
+      "start_time": "08:30",
+      "end_time": "08:55",
+      "capacity": 35,
+      "booked": 28,
+      "status": "available"
+    },
+    {
+      "item_id": "route_b",
+      "date": "2025-10-04",
+      "start_time": "17:30",
+      "end_time": "17:55",
+      "capacity": 35,
+      "booked": 10,
+      "status": "available"
+    },
+    {
+      "item_id": "route_c",
+      "date": "2025-10-04",
+      "start_time": "06:00",
+      "end_time": "06:45",
+      "capacity": 25,
+      "booked": 5,
+      "status": "available"
+    },
+    {
+      "item_id": "route_c",
+      "date": "2025-10-04",
+      "start_time": "14:00",
+      "end_time": "14:45",
+      "capacity": 25,
+      "booked": 3,
+      "status": "available"
+    },
+    {
+      "item_id": "route_d",
+      "date": "2025-10-04",
+      "start_time": "08:00",
+      "end_time": "08:20",
+      "capacity": 40,
+      "booked": 25,
+      "status": "available"
+    },
+    {
+      "item_id": "route_d",
+      "date": "2025-10-04",
+      "start_time": "09:00",
+      "end_time": "09:20",
+      "capacity": 40,
+      "booked": 18,
+      "status": "available"
+    },
+    {
+      "item_id": "route_d",
+      "date": "2025-10-04",
+      "start_time": "17:00",
+      "end_time": "17:20",
+      "capacity": 40,
+      "booked": 12,
+      "status": "available"
+    }
+  ],
+  "last_updated": "2025-10-15T10:00:00Z"
+}
