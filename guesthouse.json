@@ -1,14 +1,14 @@
 {
-  "guest_house_name": "Sunshine Guest House",
-  "rooms": [
+  "service_name": "Sunshine Guest House",
+  "service_type": "guesthouse",
+  "items": [
     {
       "id": "room_101",
       "room_number": "101",
       "room_type": "Standard Single Room",
-      "description": "Comfortable single occupancy room with basic amenities",
       "price_per_night": 800,
       "max_occupancy": 1,
-      "amenities": ["WiFi", "TV", "AC"],
+      "amenities": ["WiFi", "TV"],
       "images": [
         "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
       ],
@@ -17,10 +17,9 @@
     {
       "id": "room_102",
       "room_number": "102",
-      "room_type": "Standard Single Room",
-      "description": "Comfortable single occupancy room with basic amenities",
-      "price_per_night": 800,
-      "max_occupancy": 1,
+      "room_type": "Standard Double Room",
+      "price_per_night": 1200,
+      "max_occupancy": 2,
       "amenities": ["WiFi", "TV", "AC"],
       "images": [
         "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
@@ -28,55 +27,53 @@
       "status": "available"
     },
     {
+      "id": "room_103",
+      "room_number": "103",
+      "room_type": "Deluxe Double Room",
+      "price_per_night": 1500,
+      "max_occupancy": 2,
+      "amenities": ["WiFi", "TV", "AC", "Mini Fridge"],
+      "images": [
+        "https://media.maldronhotels.com/dalata-assets-2024/image/upload/f_auto,c_auto,w_3840,q_auto/v1712843627/Uploads/Maldron/Deluxe_double_1236369383.jpg"
+      ],
+      "status": "occupied"
+    },
+    {
       "id": "room_201",
       "room_number": "201",
-      "room_type": "Deluxe Double Room",
-      "description": "Spacious double occupancy room with premium amenities",
-      "price_per_night": 1200,
-      "max_occupancy": 2,
-      "amenities": ["WiFi", "TV", "AC", "Mini Bar"],
-      "images": [
-        "https://media.maldronhotels.com/dalata-assets-2024/image/upload/f_auto,c_auto,w_3840,q_auto/v1712843627/Uploads/Maldron/Deluxe_double_1236369383.jpg"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "room_202",
-      "room_number": "202",
-      "room_type": "Deluxe Double Room",
-      "description": "Spacious double occupancy room with premium amenities",
-      "price_per_night": 1200,
-      "max_occupancy": 2,
-      "amenities": ["WiFi", "TV", "AC", "Mini Bar"],
-      "images": [
-        "https://media.maldronhotels.com/dalata-assets-2024/image/upload/f_auto,c_auto,w_3840,q_auto/v1712843627/Uploads/Maldron/Deluxe_double_1236369383.jpg"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "room_301",
-      "room_number": "301",
-      "room_type": "Executive Suite",
-      "description": "Luxury suite with separate living area and premium services",
+      "room_type": "Suite",
       "price_per_night": 2000,
-      "max_occupancy": 3,
-      "amenities": ["WiFi", "Smart TV", "Climate Control", "Room Service"],
+      "max_occupancy": 4,
+      "amenities": ["WiFi", "TV", "AC", "Mini Fridge", "Balcony"],
       "images": [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8cGQdnqDAeXq5mZW6VzFNX8O6ebd2WmIQA&s"
       ],
       "status": "available"
     },
     {
-      "id": "room_103",
-      "room_number": "103",
-      "room_type": "Standard Single Room",
-      "description": "Comfortable single occupancy room with basic amenities",
-      "price_per_night": 800,
-      "max_occupancy": 1,
-      "amenities": ["WiFi", "TV", "AC"],
-      "images": [],
-      "status": "occupied"
+      "id": "room_202",
+      "room_number": "202",
+      "room_type": "Family Room",
+      "price_per_night": 2500,
+      "max_occupancy": 5,
+      "amenities": ["WiFi", "TV", "AC", "Mini Fridge", "Kitchen"],
+      "images": [
+        "https://media.maldronhotels.com/dalata-assets-2024/image/upload/f_auto,c_auto,w_3840,q_auto/v1712843627/Uploads/Maldron/Deluxe_double_1236369383.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "room_203",
+      "room_number": "203",
+      "room_type": "Deluxe Suite",
+      "price_per_night": 3000,
+      "max_occupancy": 4,
+      "amenities": ["WiFi", "TV", "AC", "Mini Fridge", "Balcony", "Bathtub"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8cGQdnqDAeXq5mZW6VzFNX8O6ebd2WmIQA&s"
+      ],
+      "status": "available"
     }
   ],
-  "last_updated": "2025-10-14T10:00:00Z"
+  "last_updated": "2024-10-15T10:00:00Z"
 }
