@@ -10,7 +10,7 @@
       "max_occupancy": 1,
       "amenities": ["WiFi", "TV", "AC"],
       "images": [
-        "https://example.com/images/standard-single-1.jpg"
+        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
       ],
       "status": "available"
     },
@@ -23,7 +23,7 @@
       "max_occupancy": 1,
       "amenities": ["WiFi", "TV", "AC"],
       "images": [
-        "https://example.com/images/standard-single-2.jpg"
+        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
       ],
       "status": "available"
     },
@@ -36,8 +36,8 @@
       "max_occupancy": 2,
       "amenities": ["WiFi", "TV", "AC", "Mini Bar"],
       "images": [
-        "https://example.com/images/deluxe-double-1.jpg",
-        "https://example.com/images/deluxe-double-2.jpg"
+        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg",
+        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
       ],
       "status": "available"
     },
@@ -50,7 +50,7 @@
       "max_occupancy": 2,
       "amenities": ["WiFi", "TV", "AC", "Mini Bar"],
       "images": [
-        "https://example.com/images/deluxe-double-3.jpg"
+        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
       ],
       "status": "available"
     },
@@ -63,9 +63,9 @@
       "max_occupancy": 3,
       "amenities": ["WiFi", "Smart TV", "Climate Control", "Room Service"],
       "images": [
-        "https://example.com/images/executive-suite-1.jpg",
-        "https://example.com/images/executive-suite-2.jpg",
-        "https://example.com/images/executive-suite-3.jpg"
+        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg",
+        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg",
+        "https://www.victoriaregiahotel.com/objetos/habitacion/Ng==/26022019133640.jpg"
       ],
       "status": "available"
     },
