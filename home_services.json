@@ -9,7 +9,7 @@
       "type": "Plumbing",
       "price": 500,
       "images": [
-        "https://procrewschedule.com/wp-content/uploads/2020/06/plumber-at-work-in-a-bathroom-1024x683-1.jpg"
+        "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=800"
       ],
       "status": "available",
       "attributes": {
@@ -17,7 +17,11 @@
         "duration_minutes": 60,
         "warranty_days": 30,
         "specialist": "Licensed Plumber",
-        "includes": ["Inspection", "Minor Repairs", "Basic Parts"],
+        "includes": [
+          "Inspection",
+          "Minor Repairs",
+          "Basic Parts"
+        ],
         "service_area": "All areas",
         "materials_included": false
       }
@@ -29,7 +33,7 @@
       "type": "Plumbing",
       "price": 1500,
       "images": [
-        "https://images.squarespace-cdn.com/content/v1/58498d0e2e69cf7012febe04/1512490057610-X86INIFH6EVLW4M8497A/The-Importance-of-Hiring-a-Licensed-Plumber-for-Your-Home-BL3-Plumbing-Drains-Sewer-Oklahoma"
+        "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=800"
       ],
       "status": "available",
       "attributes": {
@@ -37,7 +41,12 @@
         "duration_minutes": 180,
         "warranty_days": 90,
         "specialist": "Senior Plumber",
-        "includes": ["Detailed Inspection", "Major Repairs", "Installation", "Parts"],
+        "includes": [
+          "Detailed Inspection",
+          "Major Repairs",
+          "Installation",
+          "Parts"
+        ],
         "service_area": "All areas",
         "materials_included": true
       }
@@ -49,7 +58,7 @@
       "type": "Electrical",
       "price": 400,
       "images": [
-        "https://hometriangle.com/blogs/content/images/2024/08/hometriangle-blog-electrical-repairs.jpg"
+        "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=800"
       ],
       "status": "available",
       "attributes": {
@@ -57,7 +66,11 @@
         "duration_minutes": 45,
         "warranty_days": 30,
         "specialist": "Licensed Electrician",
-        "includes": ["Safety Check", "Minor Repairs", "Testing"],
+        "includes": [
+          "Safety Check",
+          "Minor Repairs",
+          "Testing"
+        ],
         "service_area": "All areas",
         "materials_included": false
       }
@@ -69,7 +82,7 @@
       "type": "Electrical",
       "price": 2000,
       "images": [
-        "https://img.freepik.com/free-photo/male-electrician-working-electrical-panel-male-electrician-overalls_169016-67291.jpg?semt=ais_hybrid&w=740&q=80"
+        "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=800"
       ],
       "status": "available",
       "attributes": {
@@ -77,7 +90,12 @@
         "duration_minutes": 240,
         "warranty_days": 180,
         "specialist": "Senior Electrician",
-        "includes": ["Complete Assessment", "Major Installation", "Safety Certification", "Parts"],
+        "includes": [
+          "Complete Assessment",
+          "Major Installation",
+          "Safety Certification",
+          "Parts"
+        ],
         "service_area": "All areas",
         "materials_included": true
       }
@@ -97,7 +115,12 @@
         "duration_minutes": 90,
         "warranty_days": 30,
         "specialist": "Experienced Carpenter",
-        "includes": ["Assessment", "Minor Repairs", "Assembly", "Polishing"],
+        "includes": [
+          "Assessment",
+          "Minor Repairs",
+          "Assembly",
+          "Polishing"
+        ],
         "service_area": "All areas",
         "materials_included": false
       }
@@ -117,7 +140,13 @@
         "duration_minutes": 480,
         "warranty_days": 365,
         "specialist": "Master Carpenter",
-        "includes": ["Design Consultation", "Custom Work", "Installation", "Finishing", "Materials"],
+        "includes": [
+          "Design Consultation",
+          "Custom Work",
+          "Installation",
+          "Finishing",
+          "Materials"
+        ],
         "service_area": "All areas",
         "materials_included": true
       }
@@ -137,7 +166,11 @@
         "duration_minutes": 480,
         "warranty_days": 180,
         "specialist": "Professional Painter",
-        "includes": ["Surface Preparation", "2 Coats Paint", "Touch-up Work"],
+        "includes": [
+          "Surface Preparation",
+          "2 Coats Paint",
+          "Touch-up Work"
+        ],
         "service_area": "All areas",
         "materials_included": true,
         "price_per_sqft": 15
@@ -158,7 +191,12 @@
         "duration_minutes": 600,
         "warranty_days": 365,
         "specialist": "Expert Painter",
-        "includes": ["Surface Treatment", "Waterproofing", "3 Coats Paint", "Weather Protection"],
+        "includes": [
+          "Surface Treatment",
+          "Waterproofing",
+          "3 Coats Paint",
+          "Weather Protection"
+        ],
         "service_area": "All areas",
         "materials_included": true,
         "price_per_sqft": 20
@@ -179,7 +217,12 @@
         "duration_minutes": 90,
         "warranty_days": 30,
         "specialist": "AC Technician",
-        "includes": ["Deep Cleaning", "Gas Check", "Filter Cleaning", "Cooling Test"],
+        "includes": [
+          "Deep Cleaning",
+          "Gas Check",
+          "Filter Cleaning",
+          "Cooling Test"
+        ],
         "service_area": "All areas",
         "materials_included": false
       }
@@ -199,7 +242,12 @@
         "duration_minutes": 120,
         "warranty_days": 90,
         "specialist": "Licensed Pest Control Expert",
-        "includes": ["Complete Inspection", "Treatment", "Safe Chemicals", "Follow-up"],
+        "includes": [
+          "Complete Inspection",
+          "Treatment",
+          "Safe Chemicals",
+          "Follow-up"
+        ],
         "service_area": "All areas",
         "materials_included": true
       }
@@ -219,7 +267,12 @@
         "duration_minutes": 240,
         "warranty_days": 7,
         "specialist": "Professional Cleaning Team",
-        "includes": ["All Rooms", "Kitchen Deep Clean", "Bathroom Sanitization", "Dusting"],
+        "includes": [
+          "All Rooms",
+          "Kitchen Deep Clean",
+          "Bathroom Sanitization",
+          "Dusting"
+        ],
         "service_area": "All areas",
         "materials_included": true,
         "team_size": 3
@@ -240,7 +293,11 @@
         "duration_minutes": 60,
         "warranty_days": 30,
         "specialist": "Appliance Technician",
-        "includes": ["Diagnosis", "Repair", "Testing"],
+        "includes": [
+          "Diagnosis",
+          "Repair",
+          "Testing"
+        ],
         "service_area": "All areas",
         "materials_included": false
       }
@@ -249,11 +306,299 @@
   "schedules": [
     {
       "item_id": "plumbing_basic",
+      "date": "2025-10-27",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-27",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-27",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-27",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-27",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-27",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-27",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-27",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-27",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-27",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-27",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-27",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-27",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-27",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-27",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_advanced",
+      "date": "2025-10-27",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-10-27",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-10-27",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_exterior",
+      "date": "2025-10-27",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-27",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-27",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-27",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-27",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-10-27",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-10-27",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-27",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-27",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-27",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-27",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-27",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-27",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
       "date": "2025-10-28",
       "start_time": "09:00",
       "end_time": "10:00",
       "capacity": 5,
-      "booked": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-28",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
       "status": "available"
     },
     {
@@ -262,14 +607,50 @@
       "start_time": "14:00",
       "end_time": "15:00",
       "capacity": 5,
-      "booked": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-28",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-28",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-28",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "capacity": 3,
+      "booked": 0,
       "status": "available"
     },
     {
       "item_id": "electrical_basic",
       "date": "2025-10-28",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-28",
+      "start_time": "11:00",
+      "end_time": "12:00",
       "capacity": 5,
       "booked": 0,
       "status": "available"
@@ -280,7 +661,34 @@
       "start_time": "15:00",
       "end_time": "16:00",
       "capacity": 5,
-      "booked": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-28",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-28",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-28",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
       "status": "available"
     },
     {
@@ -289,7 +697,16 @@
       "start_time": "09:00",
       "end_time": "10:30",
       "capacity": 3,
-      "booked": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-28",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 3,
+      "booked": 0,
       "status": "available"
     },
     {
@@ -298,6 +715,15 @@
       "start_time": "14:00",
       "end_time": "15:30",
       "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_advanced",
+      "date": "2025-10-28",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 1,
       "booked": 0,
       "status": "available"
     },
@@ -311,12 +737,39 @@
       "status": "available"
     },
     {
+      "item_id": "painting_interior",
+      "date": "2025-10-28",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_exterior",
+      "date": "2025-10-28",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
       "item_id": "ac_service",
       "date": "2025-10-28",
-      "start_time": "10:00",
-      "end_time": "11:30",
+      "start_time": "09:00",
+      "end_time": "10:30",
       "capacity": 4,
-      "booked": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-28",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 4,
+      "booked": 0,
       "status": "available"
     },
     {
@@ -325,7 +778,16 @@
       "start_time": "14:00",
       "end_time": "15:30",
       "capacity": 4,
-      "booked": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-28",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "capacity": 4,
+      "booked": 0,
       "status": "available"
     },
     {
@@ -338,12 +800,39 @@
       "status": "available"
     },
     {
+      "item_id": "pest_control",
+      "date": "2025-10-28",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
       "item_id": "cleaning_deep",
       "date": "2025-10-28",
       "start_time": "08:00",
       "end_time": "12:00",
       "capacity": 2,
-      "booked": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-28",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-28",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 4,
+      "booked": 0,
       "status": "available"
     },
     {
@@ -354,7 +843,1420 @@
       "capacity": 4,
       "booked": 0,
       "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-28",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-28",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-29",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-29",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-29",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-29",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-29",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-29",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-29",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-29",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-29",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-29",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-29",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-29",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-29",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-29",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-29",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_advanced",
+      "date": "2025-10-29",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-10-29",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-10-29",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_exterior",
+      "date": "2025-10-29",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-29",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-29",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-29",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-29",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-10-29",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-10-29",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-29",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-29",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-29",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-29",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-29",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-29",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-30",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-30",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-30",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-30",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-30",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-30",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-30",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-30",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-30",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-30",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-30",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-30",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-30",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-30",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-30",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_advanced",
+      "date": "2025-10-30",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-10-30",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-10-30",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_exterior",
+      "date": "2025-10-30",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-30",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-30",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-30",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-30",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-10-30",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-10-30",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-30",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-30",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-30",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-30",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-30",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-30",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-31",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-31",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-31",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-31",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-31",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-10-31",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-31",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-31",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-31",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-31",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-31",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-10-31",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-31",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-31",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-31",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_advanced",
+      "date": "2025-10-31",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-10-31",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-10-31",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_exterior",
+      "date": "2025-10-31",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-31",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-31",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-31",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-31",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-10-31",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-10-31",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-31",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-31",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-31",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-31",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-31",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-31",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-11-01",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-11-01",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-11-01",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-11-01",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-11-01",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-11-01",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-11-01",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-11-01",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-11-01",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-11-01",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-11-01",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-11-01",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-11-01",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-11-01",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-11-01",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_advanced",
+      "date": "2025-11-01",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-11-01",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-11-01",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_exterior",
+      "date": "2025-11-01",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-11-01",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-11-01",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-11-01",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-11-01",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-11-01",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-11-01",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-11-01",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-11-01",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-11-01",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-11-01",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-11-01",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-11-01",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-11-02",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-11-02",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-11-02",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-11-02",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-11-02",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_advanced",
+      "date": "2025-11-02",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-11-02",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-11-02",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-11-02",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-11-02",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-11-02",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_advanced",
+      "date": "2025-11-02",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-11-02",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-11-02",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-11-02",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_advanced",
+      "date": "2025-11-02",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 1,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-11-02",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-11-02",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_exterior",
+      "date": "2025-11-02",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-11-02",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-11-02",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-11-02",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-11-02",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-11-02",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-11-02",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-11-02",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-11-02",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-11-02",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-11-02",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-11-02",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-11-02",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
     }
   ],
-  "last_updated": "2025-10-27T10:00:00Z"
+  "last_updated": "2025-10-27T12:14:10.762Z"
 }
