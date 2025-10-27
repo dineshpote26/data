@@ -1,0 +1,360 @@
+{
+  "service_name": "HomeFix Services",
+  "service_type": "home_services",
+  "items": [
+    {
+      "id": "plumbing_basic",
+      "name": "Basic Plumbing Service",
+      "description": "Tap repairs, leakage fixes, drain cleaning, and basic plumbing issues",
+      "type": "Plumbing",
+      "price": 500,
+      "images": [
+        "https://procrewschedule.com/wp-content/uploads/2020/06/plumber-at-work-in-a-bathroom-1024x683-1.jpg"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "PLU-001",
+        "duration_minutes": 60,
+        "warranty_days": 30,
+        "specialist": "Licensed Plumber",
+        "includes": ["Inspection", "Minor Repairs", "Basic Parts"],
+        "service_area": "All areas",
+        "materials_included": false
+      }
+    },
+    {
+      "id": "plumbing_advanced",
+      "name": "Advanced Plumbing Service",
+      "description": "Pipe installation, water heater repairs, bathroom fitting, major plumbing work",
+      "type": "Plumbing",
+      "price": 1500,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/58498d0e2e69cf7012febe04/1512490057610-X86INIFH6EVLW4M8497A/The-Importance-of-Hiring-a-Licensed-Plumber-for-Your-Home-BL3-Plumbing-Drains-Sewer-Oklahoma"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "PLU-002",
+        "duration_minutes": 180,
+        "warranty_days": 90,
+        "specialist": "Senior Plumber",
+        "includes": ["Detailed Inspection", "Major Repairs", "Installation", "Parts"],
+        "service_area": "All areas",
+        "materials_included": true
+      }
+    },
+    {
+      "id": "electrical_basic",
+      "name": "Basic Electrical Service",
+      "description": "Switch/socket repairs, fan installation, wiring checks, MCB replacement",
+      "type": "Electrical",
+      "price": 400,
+      "images": [
+        "https://hometriangle.com/blogs/content/images/2024/08/hometriangle-blog-electrical-repairs.jpg"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "ELC-001",
+        "duration_minutes": 45,
+        "warranty_days": 30,
+        "specialist": "Licensed Electrician",
+        "includes": ["Safety Check", "Minor Repairs", "Testing"],
+        "service_area": "All areas",
+        "materials_included": false
+      }
+    },
+    {
+      "id": "electrical_advanced",
+      "name": "Advanced Electrical Service",
+      "description": "Complete rewiring, DB panel installation, lighting design, power backup setup",
+      "type": "Electrical",
+      "price": 2000,
+      "images": [
+        "https://img.freepik.com/free-photo/male-electrician-working-electrical-panel-male-electrician-overalls_169016-67291.jpg?semt=ais_hybrid&w=740&q=80"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "ELC-002",
+        "duration_minutes": 240,
+        "warranty_days": 180,
+        "specialist": "Senior Electrician",
+        "includes": ["Complete Assessment", "Major Installation", "Safety Certification", "Parts"],
+        "service_area": "All areas",
+        "materials_included": true
+      }
+    },
+    {
+      "id": "carpentry_basic",
+      "name": "Basic Carpentry Service",
+      "description": "Door/window repairs, furniture assembly, hinge replacement, minor fixes",
+      "type": "Carpentry",
+      "price": 600,
+      "images": [
+        "https://images.unsplash.com/photo-1597079548633-f4b4a2d45dfe?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "CAR-001",
+        "duration_minutes": 90,
+        "warranty_days": 30,
+        "specialist": "Experienced Carpenter",
+        "includes": ["Assessment", "Minor Repairs", "Assembly", "Polishing"],
+        "service_area": "All areas",
+        "materials_included": false
+      }
+    },
+    {
+      "id": "carpentry_advanced",
+      "name": "Custom Carpentry Service",
+      "description": "Custom furniture, modular kitchen, wardrobe installation, major woodwork",
+      "type": "Carpentry",
+      "price": 3000,
+      "images": [
+        "https://images.unsplash.com/photo-1597079548633-f4b4a2d45dfe?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "CAR-002",
+        "duration_minutes": 480,
+        "warranty_days": 365,
+        "specialist": "Master Carpenter",
+        "includes": ["Design Consultation", "Custom Work", "Installation", "Finishing", "Materials"],
+        "service_area": "All areas",
+        "materials_included": true
+      }
+    },
+    {
+      "id": "painting_interior",
+      "name": "Interior Painting Service",
+      "description": "Wall painting, ceiling painting, texture work, interior decoration painting",
+      "type": "Painting",
+      "price": 800,
+      "images": [
+        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "PAI-001",
+        "duration_minutes": 480,
+        "warranty_days": 180,
+        "specialist": "Professional Painter",
+        "includes": ["Surface Preparation", "2 Coats Paint", "Touch-up Work"],
+        "service_area": "All areas",
+        "materials_included": true,
+        "price_per_sqft": 15
+      }
+    },
+    {
+      "id": "painting_exterior",
+      "name": "Exterior Painting Service",
+      "description": "Exterior wall painting, waterproofing, weather-resistant coating",
+      "type": "Painting",
+      "price": 1200,
+      "images": [
+        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "PAI-002",
+        "duration_minutes": 600,
+        "warranty_days": 365,
+        "specialist": "Expert Painter",
+        "includes": ["Surface Treatment", "Waterproofing", "3 Coats Paint", "Weather Protection"],
+        "service_area": "All areas",
+        "materials_included": true,
+        "price_per_sqft": 20
+      }
+    },
+    {
+      "id": "ac_service",
+      "name": "AC Repair & Service",
+      "description": "AC servicing, gas filling, cooling issues, installation and uninstallation",
+      "type": "AC Service",
+      "price": 500,
+      "images": [
+        "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "AC-001",
+        "duration_minutes": 90,
+        "warranty_days": 30,
+        "specialist": "AC Technician",
+        "includes": ["Deep Cleaning", "Gas Check", "Filter Cleaning", "Cooling Test"],
+        "service_area": "All areas",
+        "materials_included": false
+      }
+    },
+    {
+      "id": "pest_control",
+      "name": "Pest Control Service",
+      "description": "Cockroach, termite, mosquito, rodent control for residential properties",
+      "type": "Pest Control",
+      "price": 1000,
+      "images": [
+        "https://images.unsplash.com/photo-1563202046-821c5f551c15?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "PST-001",
+        "duration_minutes": 120,
+        "warranty_days": 90,
+        "specialist": "Licensed Pest Control Expert",
+        "includes": ["Complete Inspection", "Treatment", "Safe Chemicals", "Follow-up"],
+        "service_area": "All areas",
+        "materials_included": true
+      }
+    },
+    {
+      "id": "cleaning_deep",
+      "name": "Deep Home Cleaning",
+      "description": "Complete home deep cleaning including kitchen, bathrooms, and all rooms",
+      "type": "Cleaning",
+      "price": 1500,
+      "images": [
+        "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "CLN-001",
+        "duration_minutes": 240,
+        "warranty_days": 7,
+        "specialist": "Professional Cleaning Team",
+        "includes": ["All Rooms", "Kitchen Deep Clean", "Bathroom Sanitization", "Dusting"],
+        "service_area": "All areas",
+        "materials_included": true,
+        "team_size": 3
+      }
+    },
+    {
+      "id": "appliance_repair",
+      "name": "Home Appliance Repair",
+      "description": "Washing machine, refrigerator, microwave, and other appliance repairs",
+      "type": "Appliance Repair",
+      "price": 400,
+      "images": [
+        "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800"
+      ],
+      "status": "available",
+      "attributes": {
+        "service_code": "APP-001",
+        "duration_minutes": 60,
+        "warranty_days": 30,
+        "specialist": "Appliance Technician",
+        "includes": ["Diagnosis", "Repair", "Testing"],
+        "service_area": "All areas",
+        "materials_included": false
+      }
+    }
+  ],
+  "schedules": [
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-28",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "capacity": 5,
+      "booked": 2,
+      "status": "available"
+    },
+    {
+      "item_id": "plumbing_basic",
+      "date": "2025-10-28",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "capacity": 5,
+      "booked": 1,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-28",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "capacity": 5,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "electrical_basic",
+      "date": "2025-10-28",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "capacity": 5,
+      "booked": 3,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-28",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "capacity": 3,
+      "booked": 1,
+      "status": "available"
+    },
+    {
+      "item_id": "carpentry_basic",
+      "date": "2025-10-28",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "painting_interior",
+      "date": "2025-10-28",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "capacity": 2,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-28",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "capacity": 4,
+      "booked": 2,
+      "status": "available"
+    },
+    {
+      "item_id": "ac_service",
+      "date": "2025-10-28",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "capacity": 4,
+      "booked": 1,
+      "status": "available"
+    },
+    {
+      "item_id": "pest_control",
+      "date": "2025-10-28",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "capacity": 3,
+      "booked": 0,
+      "status": "available"
+    },
+    {
+      "item_id": "cleaning_deep",
+      "date": "2025-10-28",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "capacity": 2,
+      "booked": 1,
+      "status": "available"
+    },
+    {
+      "item_id": "appliance_repair",
+      "date": "2025-10-28",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "capacity": 4,
+      "booked": 0,
+      "status": "available"
+    }
+  ],
+  "last_updated": "2025-10-27T10:00:00Z"
+}
